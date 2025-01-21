@@ -1,3 +1,1 @@
-# SimilarLiterature-Finder
-# SimilarLiterature-Finder
-# SimilarLiterature-Finder
+# forte-generate
